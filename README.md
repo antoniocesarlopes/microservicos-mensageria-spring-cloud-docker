@@ -1,32 +1,31 @@
-# microservicos-mensageria-spring-cloud-docker
-arquitetura completa com Microservices, Serviços de Mensageria, RabbitMQ, Keycloak e muito mais...
+<h2>microservicos-mensageria-spring-cloud-docker</h2>
 
-Os assuntos abordados no curso são:
+<div class="row">
+  <div class="column" >    
+    <p><img alt="" src="https://img-c.udemycdn.com/course/240x135/4220894_89b8_5.jpg" style="float:left; height:135px; width:240px" /></p>
+  </div>
+  <div class="column">    
 
+<p><strong>Arquitetura completa com Microservices, Servi&ccedil;os de Mensageria, RabbitMQ, Keycloak e muito mais...</strong></p>
 
+<p>Os assuntos abordados no curso s&atilde;o:</p>
 
-Módulos Spring Cloud/Boot
+<ul>
+	<li>M&oacute;dulos Spring Cloud/Boot</li>
+	<li>Entendimento e implementa&ccedil;&atilde;o de uma arquitetura completa de microservices</li>
+	<li>Service Discovery</li>
+	<li>Api Gateway</li>
+	<li>Balanceamento de Carga</li>
+	<li>Desenvolvimento de Microservices</li>
+	<li>Comunica&ccedil;&atilde;o S&iacute;crona e Ass&iacute;crona de Microservices</li>
+	<li>Servi&ccedil;o/Fila de Mensageria com RabbitMQ</li>
+	<li>Authorization Server com Keycloak</li>
+	<li>Desenvolvimento de Imagens Docker</li>
+	<li>Criar Containers Docker a partir das imagens customizadas</li>
+	<li>Criar R&eacute;plicas dos Microservices</li>
+</ul>
+  </div>
+</div>
 
-Entendimento e implementação de uma arquitetura completa de microservices
-
-Service Discovery
-
-Api Gateway
-
-Balanceamento de Carga
-
-Desenvolvimento de Microservices
-
-Comunicação Sícrona e Assícrona de Microservices
-
-Serviço/Fila de Mensageria com RabbitMQ
-
-Authorization Server com Keycloak
-
-Desenvolvimento de Imagens Docker
-
-Criar Containers Docker a partir das imagens customizadas
-
-Criar Réplicas dos Microservices
 
 
